@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 23
+jumlah_usaha: 25
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -20,6 +20,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Bakso Sak Maremu** | Nisa (Via) | Blitar, Jawa Timur | Rp11.000.000 - Rp12.000.000 per hari (300 kg bakso/hari) | [[Bakso-Sak-Maremu-Nisa-(Via)]] |
 | **Ciloktok** | Irfan Nur Fajar Nazirudin & Ira Wirani | Kota Blitar, Jawa Timur | 300 - 350 porsi per sesi OTR (harga Rp13.000 - Rp18.000 per porsi) | [[Ciloktok-Irfan-Nur-Fajar-Nazirudin-&-Ira-Wirani]] |
 | **Demi Apa (Depot Mie Ayam Panggang)** | Tommy | Kediri, Jawa Timur | Rp 500 - 550 juta per bulan (total 4 cabang) | [[Demi-Apa-(Depot-Mie-Ayam-Panggang)-Tommy]] |
+| **Donat Elok** | Ibu Tuti Sunarni Elok (Bu Elok) | Pasar Pring Bago, Tulungagung, Jawa Timur | 300 hingga 500 donat per hari (pernah terima pesanan 5.000 donat per acara) | [[Donat-Elok-Ibu-Tuti-Sunarni-Elok-(Bu-Elok)]] |
 | **Es Pisang Rainbow** | Ninu Zuliana | Jalan TGP Kota Blitar, Jawa Timur | Rp 2.600.000 / hari buka (200 porsi x Rp 13.000) | [[Es-Pisang-Rainbow-Ninu-Zuliana]] |
 | **Es Teler Nyonya** | Ilham Dimas Setiyarto & Mary Purwasih | Desa Beji, Kecamatan Boyolangu, Kabupaten Tulungagung, Jawa Timur | Rp200.000.000 per bulan (26 hari kerja) | [[Es-Teler-Nyonya-Ilham-Dimas-Setiyarto-&-Mary-Purwasih]] |
 | **Es Teler UMA** | An Ayu Armita Bayina (Uma) | Bandung, Tulungagung, Jawa Timur | 600 cup per hari (omzet kotor kisaran Rp7.200.000/hari) | [[Es-Teler-UMA-An-Ayu-Armita-Bayina-(Uma)]] |
@@ -29,6 +30,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Lalapan Akang Sunda** | Muhammad Ardita Madi (Dito) | Kepanjen, Kota Blitar, Jawa Timur | Habis 40-60 kg beras dan tembus hampir 1.000 porsi per hari | [[Lalapan-Akang-Sunda-Muhammad-Ardita-Madi-(Dito)]] |
 | **Mie Sinatrang** | Rizki Rizal Ramadan | Blitar, Jawa Timur | Rp 380.000.000 per bulan (sekitar Rp 15.000.000 per hari) | [[Mie-Sinatrang-Rizki-Rizal-Ramadan]] |
 | **Nasi Aroma 12** | Muhammad Rofi Abdul Aziz (Ovi) | Tulungagung, Jawa Timur | 2 cabang aktif, 15 staf, balik modal awal tempo 1-2 minggu tanpa utang | [[Nasi-Aroma-12-Muhammad-Rofi-Abdul-Aziz-(Ovi)]] |
+| **Nasi Uduk Bang Jenggot** | Sigit | Tulungagung, Jawa Timur | 300 pack/hari saat pesanan khusus, rata-rata 70-80 pack/hari di lapak utama dengan 18 kg beras saat ramai, omzet mitra capai 60 pack/hari (harga jual Rp10.000 - Rp18.000/pack, margin 35%) | [[Nasi-Uduk-Bang-Jenggot-Sigit]] |
 | **Nona Abon Gulung** | Muhammad Lutfan Abdurrahman dan Halida Amalia Arta | Kota Malang, Jawa Timur | 350 boks per hari saat peak season (Nataru & Lebaran) | [[Nona-Abon-Gulung-Muhammad-Lutfan-Abdurrahman-dan-Halida-Amalia-Arta]] |
 | **O Seafood (O'Sea Food)** | Yasmin | Kota Kediri, Jawa Timur | Kapasitas penuh hingga waiting list panjang pada masa liburan sekolah dan bulan Ramadan (total 15+ karyawan) | [[O-Seafood-(O'Sea-Food)-Yasmin]] |
 | **Pecel Tegal Sengon** | dr. Ari | Desa Bendo, Kecamatan Ponggok, Kabupaten Blitar, Jawa Timur | Mencapai kapasitas 10–18 staf untuk menangani antrean membludak di lahan seluas hampir 1 hektar | [[Pecel-Tegal-Sengon-dr.-Ari]] |
