@@ -80,8 +80,6 @@ def run(limit=20, video_id=None, force=False, auto_push=True, checkpoint_interva
         if not force and vid in existing_ids:
             continue
         targets.append(v)
-        if len(targets) >= limit:
-            break
 
     if not targets:
         print("✅ Seluruh video dalam katalog sudah selesai dirangkum!")
@@ -113,6 +111,9 @@ def run(limit=20, video_id=None, force=False, auto_push=True, checkpoint_interva
             if md_path and md_path.exists():
                 print(f"[OK] ✓ Catatan berhasil: {md_path.name}")
                 success_count += 1
+                if success_count >= limit:
+                    print(f"\n🎯 Target {limit} video sukses telah tercapai!")
+                    break
             else:
                 print(f"[FAIL] ✗ Gagal merangkum {vid}")
                 fail_count += 1
