@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+
+# Transcripts cache (optional to exclude raw large VTTs)
+data/transcripts/*.vtt
+
+# OS & Editor
+.DS_Store
+Thumbs.db
