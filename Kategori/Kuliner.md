@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 14
+jumlah_usaha: 15
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -14,6 +14,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | Bisnis | Tokoh | Lokasi | Omzet / Skala | Catatan Obsidian |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ayam Panggang Bangi** | Bu Siti Ngenaisah | Dusun Bangi, Desa Waru Marto, Kecamatan Purwoasri, Kabupaten Kediri, Jawa Timur | Hari biasa 150-280 ekor per hari; Lebaran tembus 500 ekor per hari (harga ayam utuh Rp110.000) | [[Ayam-Panggang-Bangi-Bu-Siti-Ngenaisah]] |
+| **Bakso Pak Ndut 2000** | Ibu Khalifah & Pak Ndut (Pak Dwi) | Desa Besuk, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur | Olahan daging 50 kg/hari, 4 cabang depot, mampu membeli 5 rumah dan 3 mobil | [[Bakso-Pak-Ndut-2000-Ibu-Khalifah-&-Pak-Ndut-(Pak-Dwi)]] |
 | **Bakso Sak Maremu** | Nisa (Via) | Blitar, Jawa Timur | Rp11.000.000 - Rp12.000.000 per hari (300 kg bakso/hari) | [[Bakso-Sak-Maremu-Nisa-(Via)]] |
 | **Ciloktok** | Irfan Nur Fajar Nazirudin & Ira Wirani | Kota Blitar, Jawa Timur | 300 - 350 porsi per sesi OTR (harga Rp13.000 - Rp18.000 per porsi) | [[Ciloktok-Irfan-Nur-Fajar-Nazirudin-&-Ira-Wirani]] |
 | **Es Pisang Rainbow** | Ninu Zuliana | Jalan TGP Kota Blitar, Jawa Timur | Rp 2.600.000 / hari buka (200 porsi x Rp 13.000) | [[Es-Pisang-Rainbow-Ninu-Zuliana]] |
