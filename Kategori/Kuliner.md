@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 22
+jumlah_usaha: 23
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -13,6 +13,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 
 | Bisnis | Tokoh | Lokasi | Omzet / Skala | Catatan Obsidian |
 | :--- | :--- | :--- | :--- | :--- |
+| **Arumah Food** | Yusuf Satria Mandela dan Mbak Vina | Tulungagung, Jawa Timur | Rp8.000.000 per hari (tembus saat CFD, rata-rata harian Rp3.000.000 - Rp5.000.000) | [[Arumah-Food-Yusuf-Satria-Mandela-dan-Mbak-Vina]] |
 | **Ayam Panggang Bangi** | Bu Siti Ngenaisah | Dusun Bangi, Desa Waru Marto, Kecamatan Purwoasri, Kabupaten Kediri, Jawa Timur | Hari biasa 150-280 ekor per hari; Lebaran tembus 500 ekor per hari (harga ayam utuh Rp110.000) | [[Ayam-Panggang-Bangi-Bu-Siti-Ngenaisah]] |
 | **Ayam Tulang Lunak Mbok Sup** | Aditya Nugroho | Kediri, Jawa Timur | Tidak disebutkan nominal (mampu ekspansi cabang ke area kota dalam 1,5 tahun) | [[Ayam-Tulang-Lunak-Mbok-Sup-Aditya-Nugroho]] |
 | **Bakso Pak Ndut 2000** | Ibu Khalifah & Pak Ndut (Pak Dwi) | Desa Besuk, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur | Olahan daging 50 kg/hari, 4 cabang depot, mampu membeli 5 rumah dan 3 mobil | [[Bakso-Pak-Ndut-2000-Ibu-Khalifah-&-Pak-Ndut-(Pak-Dwi)]] |
