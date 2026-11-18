@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 13
+jumlah_usaha: 14
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -25,6 +25,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Pecel Tegal Sengon** | dr. Ari | Desa Bendo, Kecamatan Ponggok, Kabupaten Blitar, Jawa Timur | Mencapai kapasitas 10–18 staf untuk menangani antrean membludak di lahan seluas hampir 1 hektar | [[Pecel-Tegal-Sengon-dr.-Ari]] |
 | **Restoran Padang Pagi Sore** | Haji Lismar & Haji Sabirin | Palembang, Sumatera Selatan | Puluhan cabang premium skala nasional lintas provinsi | [[Restoran-Padang-Pagi-Sore-Haji-Lismar-&-Haji-Sabirin]] |
 | **Rujak Ndower** | Eka Putri Septiani | Kota Malang, Jawa Timur | Sekitar 2.000 porsi per hari (gabungan 3 outlet dan jualan OTR) | [[Rujak-Ndower-Eka-Putri-Septiani]] |
+| **Warung Eropa (Es kaRo Panganan)** | Isa Wahyu Prasetyo (Isa Bajaj) | Magetan, Jawa Timur | Rp 1.000.000 hingga Rp 2.000.000+ per hari saat akhir pekan | [[Warung-Eropa-(Es-kaRo-Panganan)-Isa-Wahyu-Prasetyo-(Isa-Bajaj)]] |
 | **Warung Kendis** | Dinda & Nanang Saputro | Wlingi, Blitar, Jawa Timur | 500+ porsi per hari | [[Warung-Kendis-Dinda-&-Nanang-Saputro]] |
 
 ---
