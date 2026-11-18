@@ -119,6 +119,9 @@ tags:
 ### 🏷️ [[E-Commerce & Edukasi Bisnis Online]] (1 Video)
 - [[Sekolah-Seller-Cap-Adit-(Aditya-S)|Sekolah Seller]] — *Cap Adit (Aditya S)* (Bogor, Jawa Barat)
 
+### 🏷️ [[Edukasi & Digital Marketing]] (1 Video)
+- [[Mahir-Digital-Fahmi-Auditya|Mahir Digital]] — *Fahmi Auditya* (Depok, Jawa Barat)
+
 ### 🏷️ [[Edukasi & Komunitas Digital Marketing]] (1 Video)
 - [[SEO-Subuh-(Spiritual-Enterprise-Opportunity)-&-Titik-Terang--Bang-Re-(Rehan)|SEO Subuh (Spiritual Enterprise Opportunity) & Titik Terang Kreatif]] — *Bang Re (Rehan)* (Bekasi, Jawa Barat)
 
@@ -130,9 +133,6 @@ tags:
 
 ### 🏷️ [[Edukasi Bisnis - E-Commerce Enabler|Edukasi Bisnis / E-Commerce Enabler]] (1 Video)
 - [[Sekolah-Seller-Adit-(Kapten-Adit)|Sekolah Seller]] — *Adit (Kapten Adit)* (Indonesia (Nasional))
-
-### 🏷️ [[Edukasi Digital & Konsultasi Bisnis Online]] (1 Video)
-- [[Mahir-Digital-Fahmi-Auditya|Mahir Digital]] — *Fahmi Auditya* (Depok, Jawa Barat)
 
 ### 🏷️ [[Edukasi Keuangan & Manajemen Bisnis]] (1 Video)
 - [[Serial-Detektif-Bisnis-(Pecah-Telur)-Harta-Agung|Serial Detektif Bisnis (Pecah Telur)]] — *Harta Agung* (Indonesia)
@@ -779,7 +779,7 @@ tags:
 | 98 | [[Little-Finger-Chick-ID-Muhammad-Ilmi-Rizki-Tuwanaya-&-Retno-Habsari|Little Finger Chick ID]] | Muhammad Ilmi Rizki Tuwanaya & Retno Habsari | [[Fashion - Pakaian Anak & Etnik Modern|Fashion / Pakaian Anak & Etnik Modern]] | Bekasi Selatan, Jawa Barat | Hampir 1.000 pcs per bulan | [YouTube](https://www.youtube.com/watch?v=oNsie7yKpwM) |
 | 99 | [[MY-Enterprise-Michael-Yusak-Wirawan|MY Enterprise]] | Michael Yusak Wirawan | [[Industri Kreatif - Toy Maker|Industri Kreatif / Toy Maker]] | Malang, Jawa Timur | Rp75.000.000 per bulan | [YouTube](https://www.youtube.com/watch?v=r-6__hfs6ow) |
 | 100 | [[Madani-Export-Academy-Yuli|Madani Export Academy]] | Yuli | [[Edukasi & Konsultasi Perdagangan Internasional]] | Indonesia | Order 100 kontainer per PO (~USD 30.000 per kontainer 20ft / total ~USD 3.000.000) ke pasar Amerika Serikat | [YouTube](https://www.youtube.com/watch?v=g9KUwkapD5E) |
-| 101 | [[Mahir-Digital-Fahmi-Auditya|Mahir Digital]] | Fahmi Auditya | [[Edukasi Digital & Konsultasi Bisnis Online]] | Depok, Jawa Barat | Ratusan juta rupiah per bulan dengan 10.000+ member terdaftar | [YouTube](https://www.youtube.com/watch?v=ZzovlzuQk04) |
+| 101 | [[Mahir-Digital-Fahmi-Auditya|Mahir Digital]] | Fahmi Auditya | [[Edukasi & Digital Marketing]] | Depok, Jawa Barat | Member >10.000 orang; akumulasi ad spend belasan miliar rupiah | [YouTube](https://www.youtube.com/watch?v=XglXXpBDE6s) |
 | 102 | [[Markas-Desain-&-Roti-Goki-Hendrik-Bayu-Admiko|Markas Desain & Roti Goki]] | Hendrik Bayu Admiko | [[Jasa Kreatif (Branding) & Kuliner]] | Sidoarjo, Jawa Timur | Roti Goki capai penjualan 120.000–150.000 pcs roti/bulan; bisnis keripik terdahulu tembus 20.000 pcs/bulan (omzet ~Rp500 juta/bulan) | [YouTube](https://www.youtube.com/watch?v=bpFFB7ANzxE) |
 | 103 | [[Masjid-Jami'-Imam-Baidowi-&-Kawasan-Eduwisata-(Aviary,-Kolam-Imam-Baidowi-&-Hajah-Yayu-Ismuningtias|Masjid Jami' Imam Baidowi & Kawasan Eduwisata (Aviary, Kolam Renang, Pertanian)]] | Imam Baidowi & Hajah Yayu Ismuningtias | [[Sosial Keagamaan & Ekowisata Edukasi]] | Pare, Kediri, Jawa Timur | Mandiri membiayai operasional penuh 88 pekerja (takmir, pengelola aviary, kebun, dan sawah) dari perputaran hasil panen, tiket wisata, dan penjualan komoditas tanpa donatur luar | [YouTube](https://www.youtube.com/watch?v=MtwpbciGzek) |
 | 104 | [[Masjid-Raya-Al-Falah-Sragen-Masjid-Al-Fattah-Tulungagung-(Ek-Kusnadi-Ikhwani|Masjid Raya Al Falah Sragen / Masjid Al Fattah Tulungagung (Eks Direktur Ayam Sako & Bubur Bakar Suronatan)]] | Kusnadi Ikhwani | [[Sosial Keagamaan - Manajemen Organisasi Masjid - Filantropi Islam|Sosial Keagamaan / Manajemen Organisasi Masjid / Filantropi Islam]] | Sragen (Jawa Tengah) & Tulungagung (Jawa Timur) | Target infak Ramadan Al Falah Rp2 Miliar; Target Baitul Mal Al Fattah Rp25 Miliar (2031); Portofolio bisnis 23 cabang kuliner | [YouTube](https://www.youtube.com/watch?v=3ysUqbw39N4) |
