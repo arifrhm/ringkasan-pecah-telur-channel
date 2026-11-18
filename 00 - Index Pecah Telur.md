@@ -1,7 +1,7 @@
 ---
 title: "Index Kisah Sukses Channel Pecah Telur"
 type: "moc"
-total_video: 40
+total_video: 45
 tags:
   - pecah-telur
   - moc
@@ -12,7 +12,7 @@ tags:
 
 > Kumpulan ringkasan terstruktur, strategi bisnis, dan milestone penting ber-timestamp dari wawancara wirausahawan inspiratif di channel YouTube **[Pecah Telur](https://www.youtube.com/@PecahTelur)**.
 
-📊 **Statistik**: Total `40` Video Terangkum | Terindeks dalam format Obsidian Vault.
+📊 **Statistik**: Total `45` Video Terangkum | Terindeks dalam format Obsidian Vault.
 
 ---
 
@@ -32,6 +32,9 @@ tags:
 
 ### 🏷️ [[Agribisnis - Pengolahan Makanan Beku|Agribisnis / Pengolahan Makanan Beku]] (1 Video)
 - [[UD-Buah-Frozen-Kediri-Nur-Arvi-Khairiah|UD Buah Frozen Kediri]] — *Nur Arvi Khairiah* (Kabupaten Kediri, Jawa Timur)
+
+### 🏷️ [[Agribisnis - Pertanian|Agribisnis / Pertanian]] (1 Video)
+- [[Pondok-Tani-Muhkhairu-Saleh|Pondok Tani]] — *Muhkhairu Saleh* (Magelang, Jawa Tengah)
 
 ### 🏷️ [[Agribisnis - Peternakan|Agribisnis / Peternakan]] (1 Video)
 - [[Irfai-Group-(Budidaya-Cacing-ANC)-Muhammad-Rofiq|Irfai Group (Budidaya Cacing ANC)]] — *Muhammad Rofiq* (Kabupaten Kediri, Jawa Timur)
@@ -95,6 +98,15 @@ tags:
 ### 🏷️ [[Kuliner - Riset Ekonomi Bisnis|Kuliner / Riset Ekonomi Bisnis]] (1 Video)
 - [[Sektor-UMKM-Kuliner-Indonesia-Kopi-Garasi-(Analisis-Bisnis-UMKM)|Sektor UMKM Kuliner Indonesia]] — *Kopi Garasi (Analisis Bisnis UMKM)* (Indonesia)
 
+### 🏷️ [[Kuliner Tradisional]] (1 Video)
+- [[Warung-Tiwul-Asih-Faizal|Warung Tiwul Asih]] — *Faizal* (Tulungagung, Jawa Timur)
+
+### 🏷️ [[Manufaktur Tekstil]] (1 Video)
+- [[PT-Pabrik-Tekstil-Kasri-Bim-Wilasworo-Natanagara|PT Pabrik Tekstil Kasri]] — *Bim Wilasworo Natanagara* (Pandaan, Pasuruan, Jawa Timur)
+
+### 🏷️ [[Otomotif - Modifikasi Motor Custom|Otomotif / Modifikasi Motor Custom]] (1 Video)
+- [[Juan-Custom-Modification-Sandi-Yuhan-Melano-(Juan)-&-Aan-Ardian|Juan Custom Modification]] — *Sandi Yuhan Melano (Juan) & Aan Ardian* (Trenggalek (Pantai Prigi), Jawa Timur)
+
 ### 🏷️ [[Pendidikan - Kursus Bahasa|Pendidikan / Kursus Bahasa]] (1 Video)
 - [[Global-English-Pare-Agus-Tri-Winarto|Global English Pare]] — *Agus Tri Winarto* (Desa Tulungrejo, Kecamatan Pare, Kabupaten Kediri, Jawa Timur)
 
@@ -106,6 +118,9 @@ tags:
 
 ### 🏷️ [[Perikanan - Ikan Hias|Perikanan / Ikan Hias]] (1 Video)
 - [[JKW-Molly-Farm-Zalfa-Zahya-Putra-Wibowo|JKW Molly Farm]] — *Zalfa Zahya Putra Wibowo* (Kabupaten Kediri, Jawa Timur)
+
+### 🏷️ [[Personal Care - Parfum|Personal Care / Parfum]] (1 Video)
+- [[Umair-Parfum-(Trisna-Group)-Putro-Sigit-Subagio|Umair Parfum (Trisna Group)]] — *Putro Sigit Subagio* (Kediri, Jawa Timur)
 
 ### 🏷️ [[Peternakan]] (2 Video)
 - [[CV-Perkasa-Bintang-Unggas-Rizki-Bayu-Dewantara-(Bayu)|CV Perkasa Bintang Unggas]] — *Rizki Bayu Dewantara (Bayu)* (Desa Kelanderan, Kecamatan Plosoklaten, Kabupaten Kediri, Jawa Timur)
@@ -152,19 +167,21 @@ tags:
 - **Jakarta Barat, DKI Jakarta** (1 usaha): [[Harumi-Kartini-Studio-Harumi|Harumi Kartini Studio]]
 - **Kabupaten Kediri, Jawa Timur** (3 usaha): [[Irfai-Group-(Budidaya-Cacing-ANC)-Muhammad-Rofiq|Irfai Group (Budidaya Cacing ANC)]], [[JKW-Molly-Farm-Zalfa-Zahya-Putra-Wibowo|JKW Molly Farm]], [[UD-Buah-Frozen-Kediri-Nur-Arvi-Khairiah|UD Buah Frozen Kediri]]
 - **Kademangan, Blitar, Jawa Timur** (1 usaha): [[Retro-Mini-Aditya-Sandra-Kawiana|Retro Mini]]
-- **Kediri, Jawa Timur** (2 usaha): [[Sudut-Cantik-Group-(Highlander,-Carrier,-Skin-Ceo,-Toko-Sudu-Muhammad-Irsyad-&-Aisyah-Melinda-Ika-Puspitasari|Sudut Cantik Group (Highlander, Carrier, Skin Ceo, Toko Sudut Cantik)]], [[Usaha-Rempah-Daun-(Bahan-Baku-Daun-Salam-&-Rempah)-Wendi-Faiz-(Wenda)|Usaha Rempah Daun (Bahan Baku Daun Salam & Rempah)]]
+- **Kediri, Jawa Timur** (3 usaha): [[Sudut-Cantik-Group-(Highlander,-Carrier,-Skin-Ceo,-Toko-Sudu-Muhammad-Irsyad-&-Aisyah-Melinda-Ika-Puspitasari|Sudut Cantik Group (Highlander, Carrier, Skin Ceo, Toko Sudut Cantik)]], [[Umair-Parfum-(Trisna-Group)-Putro-Sigit-Subagio|Umair Parfum (Trisna Group)]], [[Usaha-Rempah-Daun-(Bahan-Baku-Daun-Salam-&-Rempah)-Wendi-Faiz-(Wenda)|Usaha Rempah Daun (Bahan Baku Daun Salam & Rempah)]]
 - **Kota Blitar, Jawa Timur** (1 usaha): [[Ciloktok-Irfan-Nur-Fajar-Nazirudin-&-Ira-Wirani|Ciloktok]]
 - **Kota Kediri, Jawa Timur** (1 usaha): [[O-Seafood-(O'Sea-Food)-Yasmin|O Seafood (O'Sea Food)]]
 - **Kota Malang, Jawa Timur** (1 usaha): [[Kedai-Kopi-Cahya-Baru-(Caru)-Made-Cahya-Satya-Vikana-Dana|Kedai Kopi Cahya Baru (Caru)]]
-- **Magelang, Jawa Tengah** (1 usaha): [[Omah-Sebumi-(Homestay,-Denin-Sayur,-Studio-Olahraga-Jualan)-Ius-dan-Laras|Omah Sebumi (Homestay, Denin Sayur, Studio Olahraga Jualan)]]
+- **Magelang, Jawa Tengah** (2 usaha): [[Omah-Sebumi-(Homestay,-Denin-Sayur,-Studio-Olahraga-Jualan)-Ius-dan-Laras|Omah Sebumi (Homestay, Denin Sayur, Studio Olahraga Jualan)]], [[Pondok-Tani-Muhkhairu-Saleh|Pondok Tani]]
 - **Malang, Jawa Timur** (2 usaha): [[MY-Enterprise-Michael-Yusak-Wirawan|MY Enterprise]], [[Yorkshire-Racing-Team-(Kemitraan-PT-IHK)-Muhammad-Sandi-Prasetyo|Yorkshire Racing Team (Kemitraan PT IHK)]]
+- **Pandaan, Pasuruan, Jawa Timur** (1 usaha): [[PT-Pabrik-Tekstil-Kasri-Bim-Wilasworo-Natanagara|PT Pabrik Tekstil Kasri]]
 - **Purwoasri, Kediri, Jawa Timur** (1 usaha): [[Akikah-Brawijaya-&-Sate-Gule-Brawijaya-Muhammad-Harddiri|Akikah Brawijaya & Sate Gule Brawijaya]]
 - **Sembalun, Lombok Timur, Nusa Tenggara Barat** (1 usaha): [[Agrowisata-Monjet-Stroberi-Sembalun-Mantara-(Tara)|Agrowisata Monjet Stroberi Sembalun]]
 - **Sidoarjo, Jawa Timur** (1 usaha): [[Vinclean-(Green-Laundry-Nonstop-Laundry)-Wahyu|Vinclean (Green Laundry / Nonstop Laundry)]]
 - **Srengat, Blitar, Jawa Timur & Kendari, Sulawesi Tenggara** (1 usaha): [[Usaha-Pengolahan-Kelapa-&-Turunannya-(Zero-Waste)-Hilmi-Mubarok|Usaha Pengolahan Kelapa & Turunannya (Zero Waste)]]
 - **Surabaya, Jawa Timur** (1 usaha): [[Trendy-Springbed-Leonardo-(Leo)|Trendy Springbed]]
 - **Trenggalek & Tulungagung, Jawa Timur** (1 usaha): [[Joglo-Jawi-&-Meijaya-Collection-Maita-Duardayani-(Mbak-Mei)|Joglo Jawi & Meijaya Collection]]
-- **Tulungagung, Jawa Timur** (1 usaha): [[Kantor-Advokat-&-Konsultan-Hukum-Keluarga-Mbak-Imas-Mbak-Imas|Kantor Advokat & Konsultan Hukum Keluarga Mbak Imas]]
+- **Trenggalek (Pantai Prigi), Jawa Timur** (1 usaha): [[Juan-Custom-Modification-Sandi-Yuhan-Melano-(Juan)-&-Aan-Ardian|Juan Custom Modification]]
+- **Tulungagung, Jawa Timur** (2 usaha): [[Kantor-Advokat-&-Konsultan-Hukum-Keluarga-Mbak-Imas-Mbak-Imas|Kantor Advokat & Konsultan Hukum Keluarga Mbak Imas]], [[Warung-Tiwul-Asih-Faizal|Warung Tiwul Asih]]
 
 ---
 
@@ -189,26 +206,31 @@ tags:
 | 15 | [[Irfai-Group-(Budidaya-Cacing-ANC)-Muhammad-Rofiq|Irfai Group (Budidaya Cacing ANC)]] | Muhammad Rofiq | [[Agribisnis - Peternakan|Agribisnis / Peternakan]] | Kabupaten Kediri, Jawa Timur | Kurang lebih Rp100.000.000 per bulan (panen cacing rutin) | [YouTube](https://www.youtube.com/watch?v=0AeMPNhn-9Q) |
 | 16 | [[JKW-Molly-Farm-Zalfa-Zahya-Putra-Wibowo|JKW Molly Farm]] | Zalfa Zahya Putra Wibowo | [[Perikanan - Ikan Hias|Perikanan / Ikan Hias]] | Kabupaten Kediri, Jawa Timur | Rp200.000.000 per bulan | [YouTube](https://www.youtube.com/watch?v=syDlfK3Y38U) |
 | 17 | [[Joglo-Jawi-&-Meijaya-Collection-Maita-Duardayani-(Mbak-Mei)|Joglo Jawi & Meijaya Collection]] | Maita Duardayani (Mbak Mei) | [[Kuliner & Fashion Retail]] | Trenggalek & Tulungagung, Jawa Timur | Penjualan daster Rp150 - Rp250 juta/hari (40.000 pcs saat pandemi); resto melayani 250-300 porsi reservasi/hari | [YouTube](https://www.youtube.com/watch?v=Tiqt1qQnyto) |
-| 18 | [[Kajian-Tata-Niaga-&-Industri-Beras-Nasional-(Perum-Bulog-&-R-Tim-Riset-Pecah-Telur-(Narasumber-Analisis-Roy-Mandey,-Khudo|Kajian Tata Niaga & Industri Beras Nasional (Perum Bulog & Rantai Pasok Ritel)]] | Tim Riset Pecah Telur (Narasumber Analisis: Roy Mandey, Khudori, BPS, Bulog) | [[Agribisnis, Tata Niaga Pangan, Kebijakan Publik]] | Indonesia (Nasional) | Cadangan Beras Pemerintah di Bulog tembus rekor 5,4 juta ton; Serapan nasional 4 juta ton dari total panen 32-34 juta ton | [YouTube](https://www.youtube.com/watch?v=4azzfok5wvs) |
-| 19 | [[Kandang-Leader-Farm-Rizki-Kurniawanudin-(Udin-Leader)|Kandang Leader Farm]] | Rizki Kurniawanudin (Udin Leader) | [[Peternakan Unggas - Hobi Kontes|Peternakan Unggas / Hobi Kontes]] | Gembongan, Ponggok, Blitar, Jawa Timur | Rp 60 - 70 juta per bulan | [YouTube](https://www.youtube.com/watch?v=W-0bm6f9gQs) |
-| 20 | [[Kantor-Advokat-&-Konsultan-Hukum-Keluarga-Mbak-Imas-Mbak-Imas|Kantor Advokat & Konsultan Hukum Keluarga Mbak Imas]] | Mbak Imas | [[Jasa Hukum & Konsultasi Keluarga]] | Tulungagung, Jawa Timur | Menangani puluhan perkara perceraian serta mediasi sengketa keluarga secara profesional | [YouTube](https://www.youtube.com/watch?v=hcdsvrc_QXQ) |
-| 21 | [[Kedai-Kopi-Cahya-Baru-(Caru)-Made-Cahya-Satya-Vikana-Dana|Kedai Kopi Cahya Baru (Caru)]] | Made Cahya Satya Vikana Dana | [[Kuliner - F&B & Jasa Konstruksi|Kuliner / F&B & Jasa Konstruksi]] | Kota Malang, Jawa Timur | Sekitar Rp 750.000.000 per bulan per outlet (3 cabang) | [YouTube](https://www.youtube.com/watch?v=KuCguXjnFkU) |
-| 22 | [[Kekoban-Dimsum-Vira-Pratiwi|Kekoban Dimsum]] | Vira Pratiwi | [[Kuliner (F&B)]] | Blitar, Jawa Timur | Ratusan juta per bulan (kapasitas bahan baku 220 kg ayam per hari, laba bersih sentuh Rp50-60 juta) | [YouTube](https://www.youtube.com/watch?v=5varRTwVvZo) |
-| 23 | [[Koperasi-Unit-Desa-(KUD),-Kopdes-Merah-Putih,-dan-KPBS-Panga-Mohammad-Hatta,-Raden-Arya-Wiriadmadja,-dan-Gerakan-Koperasi|Koperasi Unit Desa (KUD), Kopdes Merah Putih, dan KPBS Pangalengan]] | Mohammad Hatta, Raden Arya Wiriadmadja, dan Gerakan Koperasi Indonesia | [[Koperasi - Agribisnis - Kebijakan Ekonomi Pedesaan|Koperasi / Agribisnis / Kebijakan Ekonomi Pedesaan]] | Indonesia (Nasional, Pangalengan Jawa Barat, Purwokerto Jawa Tengah) | KPBS Pangalengan produksi 80 ton susu segar/hari; Proyek Kopdes adakan 105.000 kendaraan senilai Rp24,6 triliun untuk 80.000 unit desa | [YouTube](https://www.youtube.com/watch?v=99kYKF3iMxs) |
-| 24 | [[MY-Enterprise-Michael-Yusak-Wirawan|MY Enterprise]] | Michael Yusak Wirawan | [[Industri Kreatif - Toy Maker|Industri Kreatif / Toy Maker]] | Malang, Jawa Timur | Rp75.000.000 per bulan | [YouTube](https://www.youtube.com/watch?v=r-6__hfs6ow) |
-| 25 | [[O-Seafood-(O'Sea-Food)-Yasmin|O Seafood (O'Sea Food)]] | Yasmin | [[Kuliner]] | Kota Kediri, Jawa Timur | Kapasitas penuh hingga waiting list panjang pada masa liburan sekolah dan bulan Ramadan (total 15+ karyawan) | [YouTube](https://www.youtube.com/watch?v=x1dutwkNN9c) |
-| 26 | [[Omah-Sebumi-(Homestay,-Denin-Sayur,-Studio-Olahraga-Jualan)-Ius-dan-Laras|Omah Sebumi (Homestay, Denin Sayur, Studio Olahraga Jualan)]] | Ius dan Laras | [[Hospitality, Agribisnis, dan Wellness]] | Magelang, Jawa Tengah | Supplier tunggal bahan pangan 10 restoran/klien HORECA, pasokan 50+ item sayur/komoditas (ratusan kg komoditas dan 1.000 butir telur per 3 hari saat peak season) | [YouTube](https://www.youtube.com/watch?v=e-yBbRpD4MY) |
-| 27 | [[PT-Asuka-Engineering-Construction-(Asuka-Group)-Alfan-Wahyuddin|PT Asuka Engineering Construction (Asuka Group)]] | Alfan Wahyuddin | [[Engineering & Construction (Kontraktor Industri)]] | Gresik, Jawa Timur | Ratusan Miliar per tahun (pernah menyerap hingga 3.000 tenaga kerja dalam proyek Pertamina) | [YouTube](https://www.youtube.com/watch?v=pnTQGLasJWY) |
-| 28 | [[Pecel-Tegal-Sengon-dr.-Ari|Pecel Tegal Sengon]] | dr. Ari | [[Kuliner]] | Desa Bendo, Kecamatan Ponggok, Kabupaten Blitar, Jawa Timur | Mencapai kapasitas 10–18 staf untuk menangani antrean membludak di lahan seluas hampir 1 hektar | [YouTube](https://www.youtube.com/watch?v=TkrMyWfw4oo) |
-| 29 | [[R3-Jatim-Reni-Siskawati|R3 Jatim]] | Reni Siskawati | [[Pengolahan Pangan - Frozen Food|Pengolahan Pangan / Frozen Food]] | Desa Segaran, Kecamatan Wates, Kabupaten Kediri, Jawa Timur | Produksi 1 ton ceker tanpa tulang/hari (profit bersih pribadi Rp30.000.000/bulan + olahan limbah CCM Rp800.000/hari) | [YouTube](https://www.youtube.com/watch?v=lTladndtwkk) |
-| 30 | [[Retro-Mini-Aditya-Sandra-Kawiana|Retro Mini]] | Aditya Sandra Kawiana | [[Retail - Fesyen|Retail / Fesyen]] | Kademangan, Blitar, Jawa Timur | Rp100 juta - Rp150 juta per bulan | [YouTube](https://www.youtube.com/watch?v=QagDtsPiEs4) |
-| 31 | [[Sektor-UMKM-Kuliner-Indonesia-Kopi-Garasi-(Analisis-Bisnis-UMKM)|Sektor UMKM Kuliner Indonesia]] | Kopi Garasi (Analisis Bisnis UMKM) | [[Kuliner - Riset Ekonomi Bisnis|Kuliner / Riset Ekonomi Bisnis]] | Indonesia | Skala perputaran kas harian mikro informal | [YouTube](https://www.youtube.com/watch?v=4153ZQmb1ww) |
-| 32 | [[Sudut-Cantik-Group-(Highlander,-Carrier,-Skin-Ceo,-Toko-Sudu-Muhammad-Irsyad-&-Aisyah-Melinda-Ika-Puspitasari|Sudut Cantik Group (Highlander, Carrier, Skin Ceo, Toko Sudut Cantik)]] | Muhammad Irsyad & Aisyah Melinda Ika Puspitasari | [[Kecantikan, Kosmetik & Fashion]] | Kediri, Jawa Timur | Puluhan ribu resi per hari pada masa puncak (rata-rata 3.000–4.000 resi/hari) | [YouTube](https://www.youtube.com/watch?v=Iig-PLbMxEk) |
-| 33 | [[Syafa-Farm-Dimianto-(Kadim-Kadim-Kanesa)|Syafa Farm]] | Dimianto (Kadim / Kadim Kanesa) | [[Peternakan]] | Desa Ciawi Lor, Kecamatan Ciawigebang, Kabupaten Kuningan, Jawa Barat | Kapasitas kandang mencapai 1.500 ekor domba | [YouTube](https://www.youtube.com/watch?v=Z7-c1r3r1TE) |
-| 34 | [[Trendy-Springbed-Leonardo-(Leo)|Trendy Springbed]] | Leonardo (Leo) | [[Furnitur & Home Living]] | Surabaya, Jawa Timur | Rp1,8 Miliar per bulan | [YouTube](https://www.youtube.com/watch?v=i6oLitgniQM) |
-| 35 | [[UD-Buah-Frozen-Kediri-Nur-Arvi-Khairiah|UD Buah Frozen Kediri]] | Nur Arvi Khairiah | [[Agribisnis - Pengolahan Makanan Beku|Agribisnis / Pengolahan Makanan Beku]] | Kabupaten Kediri, Jawa Timur | Rp 100.000.000 - Rp 150.000.000 per bulan (kapasitas pisang 5 ton/minggu, mangga 3 ton/minggu) | [YouTube](https://www.youtube.com/watch?v=fr9PE7XLb0o) |
-| 36 | [[Usaha-Pengolahan-Kelapa-&-Turunannya-(Zero-Waste)-Hilmi-Mubarok|Usaha Pengolahan Kelapa & Turunannya (Zero Waste)]] | Hilmi Mubarok | [[Agribisnis - Agroindustri|Agribisnis / Agroindustri]] | Srengat, Blitar, Jawa Timur & Kendari, Sulawesi Tenggara | Produksi daging kelapa 6 ton/minggu, kopra 7-10 ton/minggu, arang batok 20 ton/bulan (nilai kirim per kontainer kopra mencapai Rp130-150 juta) | [YouTube](https://www.youtube.com/watch?v=Ccv8EM84SDo) |
-| 37 | [[Usaha-Rempah-Daun-(Bahan-Baku-Daun-Salam-&-Rempah)-Wendi-Faiz-(Wenda)|Usaha Rempah Daun (Bahan Baku Daun Salam & Rempah)]] | Wendi Faiz (Wenda) | [[Agribisnis - Komoditas Rempah|Agribisnis / Komoditas Rempah]] | Kediri, Jawa Timur | Kapasitas 8 kuintal hingga 1 ton daun salam basah per hari, profit margin 40-50% | [YouTube](https://www.youtube.com/watch?v=4q7zhSEo8HY) |
-| 38 | [[Vinclean-(Green-Laundry-Nonstop-Laundry)-Wahyu|Vinclean (Green Laundry / Nonstop Laundry)]] | Wahyu | [[Jasa (Laundry & Perawatan)]] | Sidoarjo, Jawa Timur | Skala operasional 28 cabang dengan 90+ karyawan di Jawa Timur dan Jawa Tengah | [YouTube](https://www.youtube.com/watch?v=Gjrg7jECZVE) |
-| 39 | [[Warung-Nasi-Peda-Pelangi-Nadia|Warung Nasi Peda Pelangi]] | Nadia | [[Kuliner (F&B) & Rantai Pasok Agribisnis]] | DKI Jakarta (Pusat Kota Jakarta, Setiabudi, Cilandak, Fatmawati) | Konsumsi beras 4 hingga 5,5 ton per bulan, 3 outlet aktif, 1 central kitchen, 30 karyawan | [YouTube](https://www.youtube.com/watch?v=uByB3BXz1Ww) |
-| 40 | [[Yorkshire-Racing-Team-(Kemitraan-PT-IHK)-Muhammad-Sandi-Prasetyo|Yorkshire Racing Team (Kemitraan PT IHK)]] | Muhammad Sandi Prasetyo | [[Peternakan - Perdagangan Satwa (Impor Burung Kicau)|Peternakan / Perdagangan Satwa (Impor Burung Kicau)]] | Malang, Jawa Timur | Rp3.000.000.000 per satu kali pengiriman (kuota 2.000 ekor / sewa satu pesawat kargo) | [YouTube](https://www.youtube.com/watch?v=n24Ua0WjeF4) |
+| 18 | [[Juan-Custom-Modification-Sandi-Yuhan-Melano-(Juan)-&-Aan-Ardian|Juan Custom Modification]] | Sandi Yuhan Melano (Juan) & Aan Ardian | [[Otomotif - Modifikasi Motor Custom|Otomotif / Modifikasi Motor Custom]] | Trenggalek (Pantai Prigi), Jawa Timur | 10-15 unit motor custom per bulan (harga jual rata-rata Rp25.000.000 per unit / potensi omzet hingga Rp250.000.000 - Rp375.000.000 per bulan) | [YouTube](https://www.youtube.com/watch?v=b_0gsBHzqNE) |
+| 19 | [[Kajian-Tata-Niaga-&-Industri-Beras-Nasional-(Perum-Bulog-&-R-Tim-Riset-Pecah-Telur-(Narasumber-Analisis-Roy-Mandey,-Khudo|Kajian Tata Niaga & Industri Beras Nasional (Perum Bulog & Rantai Pasok Ritel)]] | Tim Riset Pecah Telur (Narasumber Analisis: Roy Mandey, Khudori, BPS, Bulog) | [[Agribisnis, Tata Niaga Pangan, Kebijakan Publik]] | Indonesia (Nasional) | Cadangan Beras Pemerintah di Bulog tembus rekor 5,4 juta ton; Serapan nasional 4 juta ton dari total panen 32-34 juta ton | [YouTube](https://www.youtube.com/watch?v=4azzfok5wvs) |
+| 20 | [[Kandang-Leader-Farm-Rizki-Kurniawanudin-(Udin-Leader)|Kandang Leader Farm]] | Rizki Kurniawanudin (Udin Leader) | [[Peternakan Unggas - Hobi Kontes|Peternakan Unggas / Hobi Kontes]] | Gembongan, Ponggok, Blitar, Jawa Timur | Rp 60 - 70 juta per bulan | [YouTube](https://www.youtube.com/watch?v=W-0bm6f9gQs) |
+| 21 | [[Kantor-Advokat-&-Konsultan-Hukum-Keluarga-Mbak-Imas-Mbak-Imas|Kantor Advokat & Konsultan Hukum Keluarga Mbak Imas]] | Mbak Imas | [[Jasa Hukum & Konsultasi Keluarga]] | Tulungagung, Jawa Timur | Menangani puluhan perkara perceraian serta mediasi sengketa keluarga secara profesional | [YouTube](https://www.youtube.com/watch?v=hcdsvrc_QXQ) |
+| 22 | [[Kedai-Kopi-Cahya-Baru-(Caru)-Made-Cahya-Satya-Vikana-Dana|Kedai Kopi Cahya Baru (Caru)]] | Made Cahya Satya Vikana Dana | [[Kuliner - F&B & Jasa Konstruksi|Kuliner / F&B & Jasa Konstruksi]] | Kota Malang, Jawa Timur | Sekitar Rp 750.000.000 per bulan per outlet (3 cabang) | [YouTube](https://www.youtube.com/watch?v=KuCguXjnFkU) |
+| 23 | [[Kekoban-Dimsum-Vira-Pratiwi|Kekoban Dimsum]] | Vira Pratiwi | [[Kuliner (F&B)]] | Blitar, Jawa Timur | Ratusan juta per bulan (kapasitas bahan baku 220 kg ayam per hari, laba bersih sentuh Rp50-60 juta) | [YouTube](https://www.youtube.com/watch?v=5varRTwVvZo) |
+| 24 | [[Koperasi-Unit-Desa-(KUD),-Kopdes-Merah-Putih,-dan-KPBS-Panga-Mohammad-Hatta,-Raden-Arya-Wiriadmadja,-dan-Gerakan-Koperasi|Koperasi Unit Desa (KUD), Kopdes Merah Putih, dan KPBS Pangalengan]] | Mohammad Hatta, Raden Arya Wiriadmadja, dan Gerakan Koperasi Indonesia | [[Koperasi - Agribisnis - Kebijakan Ekonomi Pedesaan|Koperasi / Agribisnis / Kebijakan Ekonomi Pedesaan]] | Indonesia (Nasional, Pangalengan Jawa Barat, Purwokerto Jawa Tengah) | KPBS Pangalengan produksi 80 ton susu segar/hari; Proyek Kopdes adakan 105.000 kendaraan senilai Rp24,6 triliun untuk 80.000 unit desa | [YouTube](https://www.youtube.com/watch?v=99kYKF3iMxs) |
+| 25 | [[MY-Enterprise-Michael-Yusak-Wirawan|MY Enterprise]] | Michael Yusak Wirawan | [[Industri Kreatif - Toy Maker|Industri Kreatif / Toy Maker]] | Malang, Jawa Timur | Rp75.000.000 per bulan | [YouTube](https://www.youtube.com/watch?v=r-6__hfs6ow) |
+| 26 | [[O-Seafood-(O'Sea-Food)-Yasmin|O Seafood (O'Sea Food)]] | Yasmin | [[Kuliner]] | Kota Kediri, Jawa Timur | Kapasitas penuh hingga waiting list panjang pada masa liburan sekolah dan bulan Ramadan (total 15+ karyawan) | [YouTube](https://www.youtube.com/watch?v=x1dutwkNN9c) |
+| 27 | [[Omah-Sebumi-(Homestay,-Denin-Sayur,-Studio-Olahraga-Jualan)-Ius-dan-Laras|Omah Sebumi (Homestay, Denin Sayur, Studio Olahraga Jualan)]] | Ius dan Laras | [[Hospitality, Agribisnis, dan Wellness]] | Magelang, Jawa Tengah | Supplier tunggal bahan pangan 10 restoran/klien HORECA, pasokan 50+ item sayur/komoditas (ratusan kg komoditas dan 1.000 butir telur per 3 hari saat peak season) | [YouTube](https://www.youtube.com/watch?v=e-yBbRpD4MY) |
+| 28 | [[PT-Asuka-Engineering-Construction-(Asuka-Group)-Alfan-Wahyuddin|PT Asuka Engineering Construction (Asuka Group)]] | Alfan Wahyuddin | [[Engineering & Construction (Kontraktor Industri)]] | Gresik, Jawa Timur | Ratusan Miliar per tahun (pernah menyerap hingga 3.000 tenaga kerja dalam proyek Pertamina) | [YouTube](https://www.youtube.com/watch?v=pnTQGLasJWY) |
+| 29 | [[PT-Pabrik-Tekstil-Kasri-Bim-Wilasworo-Natanagara|PT Pabrik Tekstil Kasri]] | Bim Wilasworo Natanagara | [[Manufaktur Tekstil]] | Pandaan, Pasuruan, Jawa Timur | Pertumbuhan penjualan 250% bersama jaringan Mr. DIY (memasok 1.300 outlet dengan kapasitas hingga 40 SKU) dan alokasi ekspor 100% pada masa krisis 1998 | [YouTube](https://www.youtube.com/watch?v=H7E8qodEcYQ) |
+| 30 | [[Pecel-Tegal-Sengon-dr.-Ari|Pecel Tegal Sengon]] | dr. Ari | [[Kuliner]] | Desa Bendo, Kecamatan Ponggok, Kabupaten Blitar, Jawa Timur | Mencapai kapasitas 10–18 staf untuk menangani antrean membludak di lahan seluas hampir 1 hektar | [YouTube](https://www.youtube.com/watch?v=TkrMyWfw4oo) |
+| 31 | [[Pondok-Tani-Muhkhairu-Saleh|Pondok Tani]] | Muhkhairu Saleh | [[Agribisnis - Pertanian|Agribisnis / Pertanian]] | Magelang, Jawa Tengah | Potensi kontrak ekspor hingga 1 ton per bulan (harga vanili kering Rp1.500.000 - Rp1.700.000 per kg) | [YouTube](https://www.youtube.com/watch?v=a_mxKFxdnKk) |
+| 32 | [[R3-Jatim-Reni-Siskawati|R3 Jatim]] | Reni Siskawati | [[Pengolahan Pangan - Frozen Food|Pengolahan Pangan / Frozen Food]] | Desa Segaran, Kecamatan Wates, Kabupaten Kediri, Jawa Timur | Produksi 1 ton ceker tanpa tulang/hari (profit bersih pribadi Rp30.000.000/bulan + olahan limbah CCM Rp800.000/hari) | [YouTube](https://www.youtube.com/watch?v=lTladndtwkk) |
+| 33 | [[Retro-Mini-Aditya-Sandra-Kawiana|Retro Mini]] | Aditya Sandra Kawiana | [[Retail - Fesyen|Retail / Fesyen]] | Kademangan, Blitar, Jawa Timur | Rp100 juta - Rp150 juta per bulan | [YouTube](https://www.youtube.com/watch?v=QagDtsPiEs4) |
+| 34 | [[Sektor-UMKM-Kuliner-Indonesia-Kopi-Garasi-(Analisis-Bisnis-UMKM)|Sektor UMKM Kuliner Indonesia]] | Kopi Garasi (Analisis Bisnis UMKM) | [[Kuliner - Riset Ekonomi Bisnis|Kuliner / Riset Ekonomi Bisnis]] | Indonesia | Skala perputaran kas harian mikro informal | [YouTube](https://www.youtube.com/watch?v=4153ZQmb1ww) |
+| 35 | [[Sudut-Cantik-Group-(Highlander,-Carrier,-Skin-Ceo,-Toko-Sudu-Muhammad-Irsyad-&-Aisyah-Melinda-Ika-Puspitasari|Sudut Cantik Group (Highlander, Carrier, Skin Ceo, Toko Sudut Cantik)]] | Muhammad Irsyad & Aisyah Melinda Ika Puspitasari | [[Kecantikan, Kosmetik & Fashion]] | Kediri, Jawa Timur | Puluhan ribu resi per hari pada masa puncak (rata-rata 3.000–4.000 resi/hari) | [YouTube](https://www.youtube.com/watch?v=Iig-PLbMxEk) |
+| 36 | [[Syafa-Farm-Dimianto-(Kadim-Kadim-Kanesa)|Syafa Farm]] | Dimianto (Kadim / Kadim Kanesa) | [[Peternakan]] | Desa Ciawi Lor, Kecamatan Ciawigebang, Kabupaten Kuningan, Jawa Barat | Kapasitas kandang mencapai 1.500 ekor domba | [YouTube](https://www.youtube.com/watch?v=Z7-c1r3r1TE) |
+| 37 | [[Trendy-Springbed-Leonardo-(Leo)|Trendy Springbed]] | Leonardo (Leo) | [[Furnitur & Home Living]] | Surabaya, Jawa Timur | Rp1,8 Miliar per bulan | [YouTube](https://www.youtube.com/watch?v=i6oLitgniQM) |
+| 38 | [[UD-Buah-Frozen-Kediri-Nur-Arvi-Khairiah|UD Buah Frozen Kediri]] | Nur Arvi Khairiah | [[Agribisnis - Pengolahan Makanan Beku|Agribisnis / Pengolahan Makanan Beku]] | Kabupaten Kediri, Jawa Timur | Rp 100.000.000 - Rp 150.000.000 per bulan (kapasitas pisang 5 ton/minggu, mangga 3 ton/minggu) | [YouTube](https://www.youtube.com/watch?v=fr9PE7XLb0o) |
+| 39 | [[Umair-Parfum-(Trisna-Group)-Putro-Sigit-Subagio|Umair Parfum (Trisna Group)]] | Putro Sigit Subagio | [[Personal Care - Parfum|Personal Care / Parfum]] | Kediri, Jawa Timur | Miliaran rupiah (skala MM-an) | [YouTube](https://www.youtube.com/watch?v=A0eRzSe5zFQ) |
+| 40 | [[Usaha-Pengolahan-Kelapa-&-Turunannya-(Zero-Waste)-Hilmi-Mubarok|Usaha Pengolahan Kelapa & Turunannya (Zero Waste)]] | Hilmi Mubarok | [[Agribisnis - Agroindustri|Agribisnis / Agroindustri]] | Srengat, Blitar, Jawa Timur & Kendari, Sulawesi Tenggara | Produksi daging kelapa 6 ton/minggu, kopra 7-10 ton/minggu, arang batok 20 ton/bulan (nilai kirim per kontainer kopra mencapai Rp130-150 juta) | [YouTube](https://www.youtube.com/watch?v=Ccv8EM84SDo) |
+| 41 | [[Usaha-Rempah-Daun-(Bahan-Baku-Daun-Salam-&-Rempah)-Wendi-Faiz-(Wenda)|Usaha Rempah Daun (Bahan Baku Daun Salam & Rempah)]] | Wendi Faiz (Wenda) | [[Agribisnis - Komoditas Rempah|Agribisnis / Komoditas Rempah]] | Kediri, Jawa Timur | Kapasitas 8 kuintal hingga 1 ton daun salam basah per hari, profit margin 40-50% | [YouTube](https://www.youtube.com/watch?v=4q7zhSEo8HY) |
+| 42 | [[Vinclean-(Green-Laundry-Nonstop-Laundry)-Wahyu|Vinclean (Green Laundry / Nonstop Laundry)]] | Wahyu | [[Jasa (Laundry & Perawatan)]] | Sidoarjo, Jawa Timur | Skala operasional 28 cabang dengan 90+ karyawan di Jawa Timur dan Jawa Tengah | [YouTube](https://www.youtube.com/watch?v=Gjrg7jECZVE) |
+| 43 | [[Warung-Nasi-Peda-Pelangi-Nadia|Warung Nasi Peda Pelangi]] | Nadia | [[Kuliner (F&B) & Rantai Pasok Agribisnis]] | DKI Jakarta (Pusat Kota Jakarta, Setiabudi, Cilandak, Fatmawati) | Konsumsi beras 4 hingga 5,5 ton per bulan, 3 outlet aktif, 1 central kitchen, 30 karyawan | [YouTube](https://www.youtube.com/watch?v=uByB3BXz1Ww) |
+| 44 | [[Warung-Tiwul-Asih-Faizal|Warung Tiwul Asih]] | Faizal | [[Kuliner Tradisional]] | Tulungagung, Jawa Timur | Pendapatan setara gaji Manager BUMN, mengelola 11 karyawan dengan perputaran 30 ragam menu harian | [YouTube](https://www.youtube.com/watch?v=e2CfG1OEt5I) |
+| 45 | [[Yorkshire-Racing-Team-(Kemitraan-PT-IHK)-Muhammad-Sandi-Prasetyo|Yorkshire Racing Team (Kemitraan PT IHK)]] | Muhammad Sandi Prasetyo | [[Peternakan - Perdagangan Satwa (Impor Burung Kicau)|Peternakan / Perdagangan Satwa (Impor Burung Kicau)]] | Malang, Jawa Timur | Rp3.000.000.000 per satu kali pengiriman (kuota 2.000 ekor / sewa satu pesawat kargo) | [YouTube](https://www.youtube.com/watch?v=n24Ua0WjeF4) |
