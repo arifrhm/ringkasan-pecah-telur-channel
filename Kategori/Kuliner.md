@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 7
+jumlah_usaha: 9
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -20,6 +20,8 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Nona Abon Gulung** | Muhammad Lutfan Abdurrahman dan Halida Amalia Arta | Kota Malang, Jawa Timur | 350 boks per hari saat peak season (Nataru & Lebaran) | [[Nona-Abon-Gulung-Muhammad-Lutfan-Abdurrahman-dan-Halida-Amalia-Arta]] |
 | **O Seafood (O'Sea Food)** | Yasmin | Kota Kediri, Jawa Timur | Kapasitas penuh hingga waiting list panjang pada masa liburan sekolah dan bulan Ramadan (total 15+ karyawan) | [[O-Seafood-(O'Sea-Food)-Yasmin]] |
 | **Pecel Tegal Sengon** | dr. Ari | Desa Bendo, Kecamatan Ponggok, Kabupaten Blitar, Jawa Timur | Mencapai kapasitas 10–18 staf untuk menangani antrean membludak di lahan seluas hampir 1 hektar | [[Pecel-Tegal-Sengon-dr.-Ari]] |
+| **Restoran Padang Pagi Sore** | Haji Lismar & Haji Sabirin | Palembang, Sumatera Selatan | Puluhan cabang premium skala nasional lintas provinsi | [[Restoran-Padang-Pagi-Sore-Haji-Lismar-&-Haji-Sabirin]] |
+| **Warung Kendis** | Dinda & Nanang Saputro | Wlingi, Blitar, Jawa Timur | 500+ porsi per hari | [[Warung-Kendis-Dinda-&-Nanang-Saputro]] |
 
 ---
 Kembali ke: [[00 - Index Pecah Telur]]
