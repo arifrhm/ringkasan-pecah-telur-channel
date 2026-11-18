@@ -121,20 +121,30 @@ Silakan buat ekstraksi dan ringkasan terstruktur dalam format JSON sesuai instru
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            res = requests.post("http://127.0.0.1:20128/v1/chat/completions", headers=headers, json=payload, timeout=90)
+            res = requests.post("http://127.0.0.1:20128/v1/chat/completions", headers=headers, json=payload, timeout=120)
             if res.status_code == 200:
                 raw_content = res.json()["choices"][0]["message"]["content"].strip()
                 # Clean json codeblocks if any
                 clean_json = re.sub(r"^```(?:json)?\s*", "", raw_content)
                 clean_json = re.sub(r"\s*```$", "", clean_json).strip()
-                data = json.loads(clean_json)
+                try:
+                    data = json.loads(clean_json)
+                except json.JSONDecodeError:
+                    # Regex fallback for embedded json
+                    m = re.search(r'(\{[\s\S]*\})', clean_json)
+                    if m:
+                        data = json.loads(m.group(1))
+                    else:
+                        raise ValueError(f"Tidak dapat mengekstrak JSON dari respon LLM: {raw_content[:200]}")
                 return render_markdown(video_meta, data)
             else:
-                print(f"[WARN] 9Router return {res.status_code}: {res.text[:150]}, mencoba lagi...")
-                time.sleep(3)
+                wait_time = (attempt + 1) * 3
+                print(f"[WARN] 9Router return {res.status_code}: {res.text[:150]}, menunggu {wait_time}s...")
+                time.sleep(wait_time)
         except Exception as e:
-            print(f"[WARN] Error koneksi/parsing pada attempt {attempt+1}: {e}")
-            time.sleep(3)
+            wait_time = (attempt + 1) * 3
+            print(f"[WARN] Error koneksi/parsing attempt {attempt+1}/{max_retries}: {e}, menunggu {wait_time}s...")
+            time.sleep(wait_time)
 
     return None
 

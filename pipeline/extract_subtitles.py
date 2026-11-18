@@ -24,7 +24,8 @@ def extract_subtitle(video_id):
     cmd = [
         "yt-dlp",
         "--write-auto-sub",
-        "--sub-lang", "id",
+        "--write-sub",
+        "--sub-lang", "id,id-Latn,id-ID",
         "--sub-format", "vtt",
         "--skip-download",
         "--no-warnings",
@@ -34,9 +35,12 @@ def extract_subtitle(video_id):
 
     result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     
-    if target_vtt.exists() and target_vtt.stat().st_size > 100:
-        print(f"[SUCCESS] Subtitle tersimpan: {target_vtt.name}")
-        return target_vtt
+    # Check for any matching vtt file (e.g. id.vtt, id-Latn.vtt)
+    possible_vtts = list(TRANSCRIPTS_DIR.glob(f"{video_id}.*.vtt"))
+    if possible_vtts and possible_vtts[0].stat().st_size > 100:
+        found = possible_vtts[0]
+        print(f"[SUCCESS] Subtitle tersimpan: {found.name}")
+        return found
     else:
         print(f"[WARN] Gagal mendapatkan subtitle bahasa Indonesia untuk {video_id}")
         return None
