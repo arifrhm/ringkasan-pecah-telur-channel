@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 19
+jumlah_usaha: 20
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -21,6 +21,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Demi Apa (Depot Mie Ayam Panggang)** | Tommy | Kediri, Jawa Timur | Rp 500 - 550 juta per bulan (total 4 cabang) | [[Demi-Apa-(Depot-Mie-Ayam-Panggang)-Tommy]] |
 | **Es Pisang Rainbow** | Ninu Zuliana | Jalan TGP Kota Blitar, Jawa Timur | Rp 2.600.000 / hari buka (200 porsi x Rp 13.000) | [[Es-Pisang-Rainbow-Ninu-Zuliana]] |
 | **Es Teler Nyonya** | Ilham Dimas Setiyarto & Mary Purwasih | Desa Beji, Kecamatan Boyolangu, Kabupaten Tulungagung, Jawa Timur | Rp200.000.000 per bulan (26 hari kerja) | [[Es-Teler-Nyonya-Ilham-Dimas-Setiyarto-&-Mary-Purwasih]] |
+| **Es Teler UMA** | An Ayu Armita Bayina (Uma) | Bandung, Tulungagung, Jawa Timur | 600 cup per hari (omzet kotor kisaran Rp7.200.000/hari) | [[Es-Teler-UMA-An-Ayu-Armita-Bayina-(Uma)]] |
 | **Jenang Kawah Mbak Yun** | Muhammad Alvi & Mbak Isna | Tulungagung, Jawa Timur | Rp100-an juta per bulan (produksi tembus 2-3 ton per event) | [[Jenang-Kawah-Mbak-Yun-Muhammad-Alvi-&-Mbak-Isna]] |
 | **Ketan Duren Kediri** | Yoga Pratama (Yongki) | Semampir, Kota Kediri, Jawa Timur | Produksi 300 - 400 boks per hari (kisaran omzet Rp8,4 juta - Rp12 juta/hari) | [[Ketan-Duren-Kediri-Yoga-Pratama-(Yongki)]] |
 | **Lalapan Akang Sunda** | Muhammad Ardita Madi (Dito) | Kepanjen, Kota Blitar, Jawa Timur | Habis 40-60 kg beras dan tembus hampir 1.000 porsi per hari | [[Lalapan-Akang-Sunda-Muhammad-Ardita-Madi-(Dito)]] |
