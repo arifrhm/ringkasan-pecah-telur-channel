@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 20
+jumlah_usaha: 22
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -24,8 +24,10 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Es Teler UMA** | An Ayu Armita Bayina (Uma) | Bandung, Tulungagung, Jawa Timur | 600 cup per hari (omzet kotor kisaran Rp7.200.000/hari) | [[Es-Teler-UMA-An-Ayu-Armita-Bayina-(Uma)]] |
 | **Jenang Kawah Mbak Yun** | Muhammad Alvi & Mbak Isna | Tulungagung, Jawa Timur | Rp100-an juta per bulan (produksi tembus 2-3 ton per event) | [[Jenang-Kawah-Mbak-Yun-Muhammad-Alvi-&-Mbak-Isna]] |
 | **Ketan Duren Kediri** | Yoga Pratama (Yongki) | Semampir, Kota Kediri, Jawa Timur | Produksi 300 - 400 boks per hari (kisaran omzet Rp8,4 juta - Rp12 juta/hari) | [[Ketan-Duren-Kediri-Yoga-Pratama-(Yongki)]] |
+| **Kletek Hidayah** | Bu Winarsih | Kelurahan Kutoanyar, Kabupaten Tulungagung, Jawa Timur | Kapasitas produksi mencapai 220 kg per hari, mempekerjakan 13 karyawan | [[Kletek-Hidayah-Bu-Winarsih]] |
 | **Lalapan Akang Sunda** | Muhammad Ardita Madi (Dito) | Kepanjen, Kota Blitar, Jawa Timur | Habis 40-60 kg beras dan tembus hampir 1.000 porsi per hari | [[Lalapan-Akang-Sunda-Muhammad-Ardita-Madi-(Dito)]] |
 | **Mie Sinatrang** | Rizki Rizal Ramadan | Blitar, Jawa Timur | Rp 380.000.000 per bulan (sekitar Rp 15.000.000 per hari) | [[Mie-Sinatrang-Rizki-Rizal-Ramadan]] |
+| **Nasi Aroma 12** | Muhammad Rofi Abdul Aziz (Ovi) | Tulungagung, Jawa Timur | 2 cabang aktif, 15 staf, balik modal awal tempo 1-2 minggu tanpa utang | [[Nasi-Aroma-12-Muhammad-Rofi-Abdul-Aziz-(Ovi)]] |
 | **Nona Abon Gulung** | Muhammad Lutfan Abdurrahman dan Halida Amalia Arta | Kota Malang, Jawa Timur | 350 boks per hari saat peak season (Nataru & Lebaran) | [[Nona-Abon-Gulung-Muhammad-Lutfan-Abdurrahman-dan-Halida-Amalia-Arta]] |
 | **O Seafood (O'Sea Food)** | Yasmin | Kota Kediri, Jawa Timur | Kapasitas penuh hingga waiting list panjang pada masa liburan sekolah dan bulan Ramadan (total 15+ karyawan) | [[O-Seafood-(O'Sea-Food)-Yasmin]] |
 | **Pecel Tegal Sengon** | dr. Ari | Desa Bendo, Kecamatan Ponggok, Kabupaten Blitar, Jawa Timur | Mencapai kapasitas 10–18 staf untuk menangani antrean membludak di lahan seluas hampir 1 hektar | [[Pecel-Tegal-Sengon-dr.-Ari]] |
