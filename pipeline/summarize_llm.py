@@ -176,6 +176,18 @@ def render_markdown(video_meta, data):
     
     md_filename = f"{base_name}.md"
     file_path = OUTPUT_DIR / md_filename
+    
+    # Avoid collision if another video shares the same business and person name
+    if file_path.exists():
+        try:
+            with open(file_path, "r", encoding="utf-8") as existing_f:
+                head_text = existing_f.read(300)
+                m_existing = re.search(r'id:\s*\"?([^\"]+)\"?', head_text)
+                if m_existing and m_existing.group(1).strip() != video_id:
+                    md_filename = f"{base_name}-{video_id}.md"
+                    file_path = OUTPUT_DIR / md_filename
+        except Exception:
+            pass
 
     # Tags list
     cat_tag = re.sub(r'[^a-zA-Z0-9_-]', '', kategori.lower().replace(" ", "-"))
