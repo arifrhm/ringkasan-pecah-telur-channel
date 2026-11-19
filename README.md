@@ -27,6 +27,7 @@ Catatan ini dirancang khusus untuk dibaca di **[Obsidian](https://obsidian.md/)*
 ```
 ringkasan-pecah-telur-channel/
 ├── 00 - Index Pecah Telur.md        # Master Map of Content (MOC)
+├── 01 - Anatomi Kesuksesan Wirausaha Pecah Telur.md # Analisis Sintesis 200 Video
 ├── README.md                        # Panduan repositori & penggunaan
 ├── .obsidian/                       # Pengaturan workspace Obsidian
 ├── Kisah-Sukses/                    # Kumpulan catatan ringkasan per video

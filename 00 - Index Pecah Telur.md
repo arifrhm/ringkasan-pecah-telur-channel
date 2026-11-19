@@ -14,6 +14,9 @@ tags:
 
 📊 **Statistik**: Total `200` Video Terangkum | Terindeks dalam format Obsidian Vault.
 
+💡 **Baca Analisis Strategis & Esai Sintesis**:  
+👉 [[01 - Anatomi Kesuksesan Wirausaha Pecah Telur|01 - Anatomi Kesuksesan Wirausaha Pecah Telur (Pola Sukses, Modal Rp 0, Garis Waktu & Q&A Playbook)]]
+
 ---
 
 ## 📁 Indeks Berdasarkan Kategori Industri
