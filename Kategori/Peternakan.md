@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Peternakan"
 kategori: "Peternakan"
-jumlah_usaha: 11
+jumlah_usaha: 12
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -18,6 +18,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Peternakan**
 | **Anarada Farm** | Raka & Wendi Rahayu | Blitar, Jawa Timur | Profit bersih Rp4.000.000 - Rp5.000.000 per minggu; produksi 1.000 - 1.200 DOD per minggu | [[Anarada-Farm-Raka-&-Wendi-Rahayu]] |
 | **Bros Farm** | Kok Alex | Pare, Kediri, Jawa Timur | Populasi 8.000 - 10.000 ekor ayam (nilai aset ternak & kandang sekitar Rp1,6 Miliar) | [[Bros-Farm-Kok-Alex]] |
 | **CV Perkasa Bintang Unggas** | Rizki Bayu Dewantara (Bayu) | Desa Kelanderan, Kecamatan Plosoklaten, Kabupaten Kediri, Jawa Timur | Rp250.000.000 - Rp300.000.000 per bulan (populasi puyuh 60.000 ekor, bebek 30.000 ekor, ayam 5.000 ekor) | [[CV-Perkasa-Bintang-Unggas-Rizki-Bayu-Dewantara-(Bayu)]] |
+| **Diamundo Farm Kediri** | Ian | Desa Padangan, Dusun Tangkelan, Kecamatan Kayen Kidul, Kabupaten Kediri, Jawa Timur | Rp150.000.000 - Rp175.000.000 per bulan (kapasitas penjualan hingga 50 ekor domba bunting per bulan @ Rp3.500.000) | [[Diamundo-Farm-Kediri-Ian]] |
 | **Harmoni Farm** | Fadgulusron Nawawi | Kediri, Jawa Timur | Rp25.000.000 - Rp35.000.000 per bulan | [[Harmoni-Farm-Fadgulusron-Nawawi]] |
 | **Mulia Binangun Farm** | Hairul Zamzam | Binangun, Blitar, Jawa Timur | Rp9.200.000 per hari (rata-rata 4 kuintal telur/hari pada harga Rp23.000/kg) | [[Mulia-Binangun-Farm-Hairul-Zamzam]] |
 | **Sentra Jaya Farm** | Yoga Dwi Sasana Putra | Blitar, Jawa Timur | Populasi 3.200 ekor, produksi 83 kg telur per hari (omzet harian Rp 2,1 juta - Rp 2,3 juta) | [[Sentra-Jaya-Farm-Yoga-Dwi-Sasana-Putra]] |

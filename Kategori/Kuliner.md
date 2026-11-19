@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 29
+jumlah_usaha: 30
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -40,6 +40,7 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Polo Pendem Mas Aziz** | Muhammad Aziz | Kediri, Jawa Timur | Rp1.000.000+ per hari (kapasitas 80 hingga 100 kg per hari) | [[Polo-Pendem-Mas-Aziz-Muhammad-Aziz]] |
 | **Restoran Padang Pagi Sore** | Haji Lismar & Haji Sabirin | Palembang, Sumatera Selatan | Puluhan cabang premium skala nasional lintas provinsi | [[Restoran-Padang-Pagi-Sore-Haji-Lismar-&-Haji-Sabirin]] |
 | **Rujak Ndower** | Eka Putri Septiani | Kota Malang, Jawa Timur | Sekitar 2.000 porsi per hari (gabungan 3 outlet dan jualan OTR) | [[Rujak-Ndower-Eka-Putri-Septiani]] |
+| **Sambal Alu (PT Alu Cinta Padamu)** | Diand Agustin (Dian Agustin) | Bandar Lampung, Lampung | Ratusan juta per bulan, ribuan porsi per hari, 5 cabang operasional mandiri | [[Sambal-Alu-(PT-Alu-Cinta-Padamu)-Diand-Agustin-(Dian-Agustin)]] |
 | **Warung Eropa (Es kaRo Panganan)** | Isa Wahyu Prasetyo (Isa Bajaj) | Magetan, Jawa Timur | Rp 1.000.000 hingga Rp 2.000.000+ per hari saat akhir pekan | [[Warung-Eropa-(Es-kaRo-Panganan)-Isa-Wahyu-Prasetyo-(Isa-Bajaj)]] |
 | **Warung Kendis** | Dinda & Nanang Saputro | Wlingi, Blitar, Jawa Timur | 500+ porsi per hari | [[Warung-Kendis-Dinda-&-Nanang-Saputro]] |
 
