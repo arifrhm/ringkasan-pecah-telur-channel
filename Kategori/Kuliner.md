@@ -1,7 +1,7 @@
 ---
 title: "Kategori Bisnis: Kuliner"
 kategori: "Kuliner"
-jumlah_usaha: 26
+jumlah_usaha: 28
 tags:
   - kategori-bisnis
   - pecah-telur
@@ -28,8 +28,10 @@ Daftar wawancara wirausahawan di channel Pecah Telur dalam bidang **Kuliner**:
 | **Ketan Duren Kediri** | Yoga Pratama (Yongki) | Semampir, Kota Kediri, Jawa Timur | Produksi 300 - 400 boks per hari (kisaran omzet Rp8,4 juta - Rp12 juta/hari) | [[Ketan-Duren-Kediri-Yoga-Pratama-(Yongki)]] |
 | **Kletek Hidayah** | Bu Winarsih | Kelurahan Kutoanyar, Kabupaten Tulungagung, Jawa Timur | Kapasitas produksi mencapai 220 kg per hari, mempekerjakan 13 karyawan | [[Kletek-Hidayah-Bu-Winarsih]] |
 | **Lalapan Akang Sunda** | Muhammad Ardita Madi (Dito) | Kepanjen, Kota Blitar, Jawa Timur | Habis 40-60 kg beras dan tembus hampir 1.000 porsi per hari | [[Lalapan-Akang-Sunda-Muhammad-Ardita-Madi-(Dito)]] |
+| **Lapak Jajanan & Nasi Pagi Bu Siti / Pak Gigir** | Gigir Yuono & Siti Aminah | Kabupaten Tulungagung, Jawa Timur | Ribuan potong kue dan nasi per hari dari puluhan mitra penitip | [[Lapak-Jajanan-&-Nasi-Pagi-Bu-Siti-Pak-Gigir-Gigir-Yuono-&-Siti-Aminah]] |
 | **Mie Sinatrang** | Rizki Rizal Ramadan | Blitar, Jawa Timur | Rp 380.000.000 per bulan (sekitar Rp 15.000.000 per hari) | [[Mie-Sinatrang-Rizki-Rizal-Ramadan]] |
 | **Nasi Aroma 12** | Muhammad Rofi Abdul Aziz (Ovi) | Tulungagung, Jawa Timur | 2 cabang aktif, 15 staf, balik modal awal tempo 1-2 minggu tanpa utang | [[Nasi-Aroma-12-Muhammad-Rofi-Abdul-Aziz-(Ovi)]] |
+| **Nasi Gigit & Rempahin** | Mas Jo (Jordan) | Ngunut, Tulungagung, Jawa Timur | Rp800.000 - Rp1.200.000 per hari (5 cabang), pesanan borongan sedekah tembus Rp15.000.000 | [[Nasi-Gigit-&-Rempahin-Mas-Jo-(Jordan)]] |
 | **Nasi Uduk Bang Jenggot** | Sigit | Tulungagung, Jawa Timur | 300 pack/hari saat pesanan khusus, rata-rata 70-80 pack/hari di lapak utama dengan 18 kg beras saat ramai, omzet mitra capai 60 pack/hari (harga jual Rp10.000 - Rp18.000/pack, margin 35%) | [[Nasi-Uduk-Bang-Jenggot-Sigit]] |
 | **Nona Abon Gulung** | Muhammad Lutfan Abdurrahman dan Halida Amalia Arta | Kota Malang, Jawa Timur | 350 boks per hari saat peak season (Nataru & Lebaran) | [[Nona-Abon-Gulung-Muhammad-Lutfan-Abdurrahman-dan-Halida-Amalia-Arta]] |
 | **O Seafood (O'Sea Food)** | Yasmin | Kota Kediri, Jawa Timur | Kapasitas penuh hingga waiting list panjang pada masa liburan sekolah dan bulan Ramadan (total 15+ karyawan) | [[O-Seafood-(O'Sea-Food)-Yasmin]] |
